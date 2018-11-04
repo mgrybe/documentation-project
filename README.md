@@ -1,6 +1,6 @@
 # GIT Basics
 
-| Command  | Description  |
+| Command 3 | Description  |
 |---|---|
 | git init   | Initializes empty Git repository. |
 | git add    | Adds list of files or directories to Git index.  |
